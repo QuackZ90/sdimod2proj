@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/sdimod2proj/static/css/main.073c9b0a.css",
-    "main.js": "/sdimod2proj/static/js/main.ce3c3f25.js",
-    "static/js/787.a173bc41.chunk.js": "/sdimod2proj/static/js/787.a173bc41.chunk.js",
-    "static/media/logo.svg": "/sdimod2proj/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/sdimod2proj/static/css/main.31af7938.css",
+    "main.js": "/sdimod2proj/static/js/main.303072f1.js",
+    "static/media/favicon.ico": "/sdimod2proj/static/media/favicon.0b3dac682e2af8c31ded.ico",
+    "static/media/Spinner.svg": "/sdimod2proj/static/media/Spinner.88cde825fe0e2a80d3dbd2523d53f5a9.svg",
     "index.html": "/sdimod2proj/index.html",
-    "main.073c9b0a.css.map": "/sdimod2proj/static/css/main.073c9b0a.css.map",
-    "main.ce3c3f25.js.map": "/sdimod2proj/static/js/main.ce3c3f25.js.map",
-    "787.a173bc41.chunk.js.map": "/sdimod2proj/static/js/787.a173bc41.chunk.js.map"
+    "main.31af7938.css.map": "/sdimod2proj/static/css/main.31af7938.css.map",
+    "main.303072f1.js.map": "/sdimod2proj/static/js/main.303072f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ce3c3f25.js"
+    "static/css/main.31af7938.css",
+    "static/js/main.303072f1.js"
   ]
 }
