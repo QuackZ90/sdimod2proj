@@ -15,3 +15,4 @@ Tools / packagesused for this project:
 - [svy21](https://www.npmjs.com/package/svy21)
 
 Deployed webpage may be viewed at [WhereCanPark](https://quackz90.github.io/sdimod2proj/)
+*Note: To function fully, Google Map API key is required.
